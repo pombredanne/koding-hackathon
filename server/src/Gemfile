@@ -1,0 +1,7 @@
+#gem 'rack'
+#gem 'thin'
+#gem '3scale_client'
+gem 'json'
+gem 'grape'
+gem 'nokogiri'
+gem 'open-uri'
